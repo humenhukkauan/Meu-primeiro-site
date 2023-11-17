@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+
+#p1 {
+    float: left;
+    background-color: antiquewhite;
+    width: 50%;
+    margin: 30px;
+    text-align: center;
+}
+
+#p2 {
+    float: right;
+    background-color: antiquewhite;
+    width: 40%;
+    margin: 50px;
+    text-align: center;
+}
+#titulo1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
