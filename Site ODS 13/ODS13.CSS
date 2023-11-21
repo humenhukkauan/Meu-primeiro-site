@@ -1,0 +1,49 @@
+body {
+    background-color: darkseagreen;
+  
+
+
+}
+
+
+#p1 {
+    margin: 1cm;
+    margin-right: 16cm;
+    margin-top: 3cm;
+    text-align: justify;
+    background-color: beige;
+}
+
+#p2 {
+    margin-top: 2cm;
+    margin-left: 15cm;
+    margin-right: 1cm;
+    margin-top: 3cm;
+    text-align: justify;
+    background-color: beige;
+}
+
+#titulo1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    margin-top: 2cm;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+#t2 {
+    text-align: center;
+    color: green;
+
+}
+
+
+.container1 {
+    display: flex;
+}
+
+#img1 {
+    margin-left: 19cm;
+    margin-top: -7cm;
+}
